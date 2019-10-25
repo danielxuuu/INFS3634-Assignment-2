@@ -25,7 +25,6 @@ public class BurgerActivity extends AppCompatActivity {
         tv_price = findViewById(R.id.tv_price);
         tv_desc = findViewById(R.id.tv_desc);
 
-        // Set the views to show the data of our object
  /*       tv_name.setText(getName());
         tv_price.setText(getPrice());
         tv_desc.setText(getDescription());
